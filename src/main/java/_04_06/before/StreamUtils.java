@@ -1,7 +1,6 @@
 package _04_06.before;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class StreamUtils {
 
